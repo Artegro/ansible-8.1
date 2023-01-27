@@ -1,2 +1,6 @@
 ---
+<<<<<<< HEAD
   some_fact: all default fact
+=======
+  some_fact: all default fact
+>>>>>>> efbdb97682a42d67368ea26eb3179ddd42ceb0c3
